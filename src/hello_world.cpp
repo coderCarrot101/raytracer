@@ -25,3 +25,5 @@ int main() {
         }
     }
 }
+
+//TODO: A) figure out output stream and C-make B) work out basic methodology
