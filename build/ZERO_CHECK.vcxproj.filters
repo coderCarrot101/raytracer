@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\elpi1\Desktop\raytracer\build\CMakeFiles\1b9b04c281668089df091790584a92d6\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9A7C35E5-E41D-3B0E-8D20-47F7681C9DCA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
