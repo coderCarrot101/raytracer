@@ -1,3 +1,3 @@
-C:/Users/elpi1/Desktop/raytracer/build/CMakeFiles/raytracer.dir
+C:/Users/elpi1/Desktop/raytracer/build/CMakeFiles/inOneWeekend.dir
 C:/Users/elpi1/Desktop/raytracer/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/elpi1/Desktop/raytracer/build/CMakeFiles/ZERO_CHECK.dir

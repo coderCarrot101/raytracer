@@ -1,0 +1,10 @@
+^C:\USERS\ELPI1\DESKTOP\RAYTRACER\BUILD\CMAKEFILES\1B9B04C281668089DF091790584A92D6\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/elpi1/Desktop/raytracer -BC:/Users/elpi1/Desktop/raytracer/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/elpi1/Desktop/raytracer/build/inOneWeekend.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

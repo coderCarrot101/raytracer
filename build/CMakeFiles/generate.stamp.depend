@@ -1,4 +1,7 @@
 # CMake generation dependency list for this directory.
+C:/Libraries/SDL3/SDL3-3.4.0/cmake/SDL3Config.cmake
+C:/Libraries/SDL3/SDL3-3.4.0/cmake/SDL3ConfigVersion.cmake
+C:/Libraries/SDL3/SDL3-3.4.0/cmake/sdlcpu.cmake
 C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCXXInformation.cmake
 C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeCommonLanguageInclude.cmake
 C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeGenericSystem.cmake
@@ -10,6 +13,7 @@ C:/Program Files/CMake/share/cmake-4.2/Modules/CMakeSystemSpecificInitialize.cma
 C:/Program Files/CMake/share/cmake-4.2/Modules/Compiler/CMakeCommonCompilerMacros.cmake
 C:/Program Files/CMake/share/cmake-4.2/Modules/Compiler/MSVC-CXX.cmake
 C:/Program Files/CMake/share/cmake-4.2/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.2/Modules/FeatureSummary.cmake
 C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CMakeCXXLinkerInformation.cmake
 C:/Program Files/CMake/share/cmake-4.2/Modules/Internal/CMakeCommonLinkerInformation.cmake
 C:/Program Files/CMake/share/cmake-4.2/Modules/Linker/MSVC-CXX.cmake
